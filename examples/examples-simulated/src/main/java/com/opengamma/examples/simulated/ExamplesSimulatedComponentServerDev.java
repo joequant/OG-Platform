@@ -39,7 +39,7 @@ public class ExamplesSimulatedComponentServerDev extends OpenGammaComponentServe
       // if no command line arguments, then use default arguments suitable for development in an IDE
       // the first argument is for verbose startup, to aid understanding
       // the second argument defines the start of a chain of properties files providing the configuration
-      args = new String[] {"-v", "classpath:/fullstack/fullstack-examplessimulated-dev.properties"};
+      args = new String[] {"-v", "classpath:/bitquant/fullstack-examplessimulated-dev.properties"};
     }
     if (!new ExamplesSimulatedComponentServerDev().run(args)) {
       ShutdownUtils.exit(-1);
