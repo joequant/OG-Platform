@@ -138,12 +138,72 @@
   <artifactId>xchange-core</artifactId>
   <version>2.0.0</version>
 </dependency>
-<!--    <dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-openexchangerates</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-bitcoincharts</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-btce</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-bitfinex</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-anx</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-bitstamp</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-cryptotrade</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-btcchina</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-blockchain</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-coinbase</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-cexio</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
+  <groupId>com.xeiam.xchange</groupId>
+  <artifactId>xchange-bitcoinaverage</artifactId>
+  <version>2.0.0</version>
+</dependency>
+<dependency>
       <groupId>org.postgresql</groupId>
       <artifactId>postgresql</artifactId>
       <version>9.3-1100-jdbc41</version>
-    </dependency> -->
-  </dependencies>
+</dependency>
+</dependencies>
 
   <!-- ==================================================================== -->
   <profiles>
